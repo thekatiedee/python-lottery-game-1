@@ -1,4 +1,5 @@
-# generate a three-digit lottery number
+# generate a three-digit lottery number and have the user guess, then compare the guess to the lottery number
+# alerts user of prizes based on if the digits match or not
 
 import random
 
